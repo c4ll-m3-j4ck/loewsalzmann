@@ -5810,6 +5810,7 @@ button.close {
   margin-left: 100%;
   display: inline-block;
   width: 100%;
+  height: auto;
 }
 .jumbotron .intro-right .face-wrapper.active {
   margin-left: -400px;
