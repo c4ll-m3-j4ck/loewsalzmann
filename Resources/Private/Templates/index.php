@@ -38,6 +38,7 @@
                     <div class="face-addition">
                         <h2>edmund salzmann</h2>
                         <h2>edmund salzmann</h2>
+                        <h2>edmund salzmann</h2>
                     </div>
                 </div>
                 <div class="face-wrapper">
