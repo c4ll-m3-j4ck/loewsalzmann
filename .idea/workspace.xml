@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/js/Application.js" afterPath="$PROJECT_DIR$/Resources/Public/js/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" afterPath="$PROJECT_DIR$/Resources/Public/php/mail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -48,7 +47,7 @@
       <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="9" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+            <state line="39" column="0" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -63,22 +62,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="-3.5696204" vertical-offset="1338" max-vertical-offset="1920">
+            <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.5251397" vertical-offset="1338" max-vertical-offset="1920">
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mail.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="5" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.43074325" vertical-offset="480" max-vertical-offset="1230">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -168,6 +158,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Skinning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann_1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,6 +291,7 @@
       <recent name="$PROJECT_DIR$/Resources/Public/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Resources/Public/php" />
       <recent name="$PROJECT_DIR$/Resources/Private/Templates" />
       <recent name="$PROJECT_DIR$/Skinning" />
     </key>
@@ -365,12 +378,16 @@
       <created>1396541581586</created>
       <updated>1396541581586</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Kontaktform in jQuery hinzugefügt (Update)&#10;">
+      <created>1396543043711</created>
+      <updated>1396543043711</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -385,7 +402,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24821429" sideWeight="0.6704731" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24821429" sideWeight="0.6704731" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -552,26 +569,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="83" selection-start="2596" selection-end="2596" vertical-scroll-proportion="1.7597766" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="-3.5696204" vertical-offset="1338" max-vertical-offset="1920">
+        <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.5251397" vertical-offset="1338" max-vertical-offset="1920">
           <folding>
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="998" selection-end="998" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="5" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.43074325" vertical-offset="480" max-vertical-offset="1230">
-          <folding />
         </state>
       </provider>
     </entry>

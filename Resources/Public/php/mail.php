@@ -38,12 +38,10 @@ if($_POST)
         $output = json_encode(array('type'=>'error', 'text' => 'Bitte geben Sie eine gültige Email-Adresse ein!'));
         die($output);
     }
-    if(!is_numeric($user_Phone)) //check entered data is numbers
+    if(!strlen($user_Phone)<1) //check entered data is not empty
     {
-        if(strlen($user_Phone)<6) //check entered data is not empty
+        if(!is_numeric($user_Phone)) //check entered data is numbers
         {
-            break 2;
-        }else{
             $output = json_encode(array('type'=>'error', 'text' => 'Nur Ziffern im Feld "Telefonnummer" erlaubt!'));
             die($output);
         }
@@ -63,11 +61,11 @@ if($_POST)
         'X-Mailer: PHP/' . phpversion();
 
     // send mail
-    $sentMail = @mail($to_Email, $subject, $user_Message ."\n\n".$user_Name, $headers);
+    $sentMail = @mail($to_Email, $subject, $user_Message ."\n\n--------------------\nName: ".$user_Name ."\nTelefonnummer: ".$user_Phone, $headers);
 
     if(!$sentMail)
     {
-        $output = json_encode(array('type'=>'error', 'text' => 'Die EMail konnte auf Grund eines technischen Fehlers nicht versendet werden.'));
+        $output = json_encode(array('type'=>'error', 'text' => 'Die Email konnte auf Grund eines technischen Fehlers nicht versendet werden.'));
         die($output);
     }else{
         $output = json_encode(array('type'=>'message', 'text' => 'Hallo '.$user_Name .', vielen Dank für Ihre Anfrage!'));
