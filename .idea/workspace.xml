@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="Test change 2&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Skinning/less/skin_custom.less" afterPath="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" afterPath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
+    <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -37,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skin_custom.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="skin_custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="20" selection-start="485" selection-end="485" vertical-scroll-proportion="0.7614213" vertical-offset="0" max-vertical-offset="1020">
+            <state line="25" column="23" selection-start="403" selection-end="403" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -64,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="43" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1035">
+            <state line="73" column="27" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.7347973" vertical-offset="660" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
@@ -98,8 +96,8 @@
         <option value="$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_main.less" />
         <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
       </list>
     </option>
   </component>
@@ -157,10 +155,6 @@
               <option name="myItemId" value="Skinning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -177,28 +171,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="loewsalzmann_1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="loewsalzmann" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,28 +276,32 @@
       <created>1396520000425</created>
       <updated>1396520000425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test change 2&#10;">
+      <created>1396521012776</created>
+      <updated>1396521012776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704731" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295099" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24821429" sideWeight="0.6704731" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="43" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/img/face2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -493,7 +462,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="20" selection-start="485" selection-end="485" vertical-scroll-proportion="0.7614213" vertical-offset="0" max-vertical-offset="1020">
+        <state line="25" column="23" selection-start="403" selection-end="403" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="27" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.7347973" vertical-offset="660" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>

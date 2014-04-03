@@ -5,6 +5,7 @@
     <script src="js/jquery-1.11.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/Application.js"></script>
+    <script src="http://use.edgefonts.net/dosis:n2.js"></script>
 </head>
 <body>
 <!--<div class="navbar navbar-inverse navbar-fixed-top">
@@ -21,14 +22,29 @@
         </ul>
     </div>
 </div>-->
+<div class="floating-nav nav">
+    <ul class="nav">
+        <li>
+            <a href="#">Top</a>
+        </li>
+        <li>
+            <a href="#wir">Über Uns</a>
+        </li>
+        <li>
+            <a href="#referenzen">Referenzen</a>
+        </li>
+    </ul>
+</div>
 
 <div class="jumbotron">
     <div class="container">
-        <div class="col-sm-9">
+        <div class="col-sm-8 col-sm-offset-1">
             <div class="intro-left">
                 <h1>löw & salzmann GbR</h1>
                 <p>marktplatz 14</br>
                 64283 darmstadt</p>
+                <p>+49 (0) 174 2630690</p>
+                <p>info@innovative-design-solutions.de</p>
             </div>
         </div>
         <div class="col-sm-3">
@@ -37,8 +53,6 @@
                     <img class="img-circle img-face" src="img/face1.png">
                     <div class="face-addition">
                         <h2>edmund salzmann</h2>
-                        <h2>edmund salzmann</h2>
-                        <h2>edmund salzmann</h2>
                     </div>
                 </div>
                 <div class="face-wrapper">
@@ -46,6 +60,20 @@
                 </div>
 
             </div>
+        </div>
+    </div>
+</div>
+<div class="jumbotron white" id="wir">
+    <div class="container">
+        <div class="col-sm-offset-1">
+            <h2>das machen wir so den ganzen tag</h2>
+        </div>
+    </div>
+</div>
+<div class="jumbotron" id="referenzen">
+    <div class="container">
+        <div class="col-sm-offset-1">
+            <h2>das machen wir so den ganzen tag</h2>
         </div>
     </div>
 </div>
