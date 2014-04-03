@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/js/Application.js" afterPath="$PROJECT_DIR$/Resources/Public/js/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -46,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.63474023" vertical-offset="434" max-vertical-offset="1170">
+            <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.0" vertical-offset="434" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
@@ -75,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mail.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1170">
+            <state line="64" column="117" selection-start="2662" selection-end="2662" vertical-scroll-proportion="0.7601351" vertical-offset="510" max-vertical-offset="1155">
               <folding />
             </state>
           </provider>
@@ -111,9 +109,9 @@
         <option value="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
         <option value="$PROJECT_DIR$/Resources/Private/Scripts/mail.php" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
         <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
         <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
       </list>
     </option>
   </component>
@@ -354,7 +352,11 @@
       <created>1396533714663</created>
       <updated>1396533714663</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Kontaktform in jQuery hinzugefügt">
+      <created>1396540822044</created>
+      <updated>1396540822044</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,7 +402,8 @@
     <MESSAGE value="Test change&#10;" />
     <MESSAGE value="Test change 2&#10;" />
     <MESSAGE value="Kontaktform-Dummy hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform-Dummy hinzugefügt" />
+    <MESSAGE value="Kontaktform in jQuery hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform in jQuery hinzugefügt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -539,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="-3.5696204" vertical-offset="1338" max-vertical-offset="1920">
@@ -557,7 +553,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.63474023" vertical-offset="434" max-vertical-offset="1170">
+        <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.0" vertical-offset="434" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="117" selection-start="2662" selection-end="2662" vertical-scroll-proportion="0.7601351" vertical-offset="510" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>

@@ -1,11 +1,7 @@
 <?php
 if($_POST)
 {
-    $to_Email       = "e.c.salzmann@gmail.com"; //Replace with recipient email address
-    $subject        = 'Anfrage von innovative-design-solutions.de'; //Subject line for emails
-
-
-    //check if its an ajax request, exit if not
+        //check if its an ajax request, exit if not
     if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
 
         //exit script outputting json data
@@ -53,17 +49,20 @@ if($_POST)
         die($output);
     }
 
+    $to_Email       = "info@innovative-design-solutions.de"; //Replace with recipient email address
+    $subject        = 'Anfrage von '.$user_Name .' auf innovative-design-solutions.de'; //Subject line for emails
+
     //proceed with PHP email.
-    $headers = 'From: '.$user_Email.'' . "rn" .
-        'Reply-To: '.$user_Email.'' . "rn" .
+    $headers = 'From: '.$user_Email.'' . "\r\n" .
+        'Reply-To: '.$user_Email.'' . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
 
     // send mail
-    $sentMail = @mail($to_Email, $subject, $user_Message .'  -'.$user_Name, $headers);
+    $sentMail = @mail($to_Email, $subject, $user_Message ."\n\n".$user_Name, $headers);
 
     if(!$sentMail)
     {
-        $output = json_encode(array('type'=>'error', 'text' => 'Could not send mail! Please check your PHP mail configuration.'));
+        $output = json_encode(array('type'=>'error', 'text' => 'Die EMail konnte auf Grund eines technischen Fehlers nicht versendet werden.'));
         die($output);
     }else{
         $output = json_encode(array('type'=>'message', 'text' => 'Hallo '.$user_Name .', vielen Dank für Ihre Anfrage!'));
