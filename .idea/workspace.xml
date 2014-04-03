@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/js/Application.js" afterPath="$PROJECT_DIR$/Resources/Public/js/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -43,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Application.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="43" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="255">
+            <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.63474023" vertical-offset="434" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
@@ -55,19 +58,28 @@
       <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="885">
+            <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="-0.0" vertical-offset="135" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="72" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.7765363" vertical-offset="1203" max-vertical-offset="1845">
+            <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="-3.5696204" vertical-offset="1338" max-vertical-offset="1920">
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1170">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,10 +108,12 @@
       <list>
         <option value="$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_main.less" />
-        <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
         <option value="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
+        <option value="$PROJECT_DIR$/Resources/Private/Scripts/mail.php" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
         <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
+        <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
       </list>
     </option>
   </component>
@@ -155,6 +169,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Skinning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann_1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,12 +273,14 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Resources/Public/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Resources/Private/Templates" />
       <recent name="$PROJECT_DIR$/Skinning" />
     </key>
   </component>
@@ -312,7 +350,11 @@
       <created>1396533689137</created>
       <updated>1396533689137</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kontaktform-Dummy hinzugefügt">
+      <created>1396533714663</created>
+      <updated>1396533714663</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -357,7 +399,8 @@
     <MESSAGE value="Test change" />
     <MESSAGE value="Test change&#10;" />
     <MESSAGE value="Test change 2&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test change 2&#10;" />
+    <MESSAGE value="Kontaktform-Dummy hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform-Dummy hinzugefügt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -465,20 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="43" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/img/face2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -503,12 +532,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="72" selection-start="3598" selection-end="3598" vertical-scroll-proportion="0.7765363" vertical-offset="1203" max-vertical-offset="1845">
+        <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="-3.5696204" vertical-offset="1338" max-vertical-offset="1920">
           <folding>
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.63474023" vertical-offset="434" max-vertical-offset="1170">
+          <folding />
         </state>
       </provider>
     </entry>

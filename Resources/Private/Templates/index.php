@@ -45,7 +45,7 @@
             <div class="intro-left">
                 <h1>löw & salzmann GbR</h1>
                 <p>marktplatz 14</br>
-                64283 darmstadt</p>
+                    64283 darmstadt</p>
                 <p>+49 (0) 174 2630690</p>
                 <p>info@innovative-design-solutions.de</p>
             </div>
@@ -92,27 +92,32 @@
             </p>
         </div>
         <div class="col-sm-8 col-sm-offset-2">
-            <form role="form" action="mail.php" method="POST">
-                <div class="form-group">
+            <div id="result"></div>
+            <div id="contact">
+                <div class="form-group" id="name">
                     <label for="InputName">Ihr Name:</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Geben Sie Ihren Namen ein">
+                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Geben Sie Ihren Namen ein">
                 </div>
-                <div class="form-group">
+                <div class="form-group" id="email">
                     <label for="InputEmail">Ihre Email-Adresse:</label>
-                    <input type="text" class="form-control" id="InputEmail" placeholder="Geben Sie Ihre Email-Adresse ein">
+                    <input type="text" class="form-control" name="InputEmail" id="InputEmail" placeholder="Geben Sie Ihre Email-Adresse ein">
                 </div>
-                <div class="form-group">
+                <div class="form-group" id="phone">
+                    <label for="InputPhone">Ihre Telefonnummer: (optional)</label>
+                    <input type="text" class="form-control" name="InputPhone" id="InputPhone" placeholder="Geben Sie Ihre Telefonnummer ein">
+                </div>
+                <div class="form-group" id="message">
                     <label for="InputMessage">Ihre Nachricht an uns:</label>
-                    <textarea class="form-control" rows="5"></textarea>
+                    <textarea class="form-control" rows="5" name="InputMessage" id="InputMessage"></textarea>
                 </div>
 
-                <button type="button" class="btn btn-primary">Abschicken</button>
-            </form>
-        </div>
+                <button type="submit" class="btn btn-primary submit" id="submit">Abschicken</button>
+            </div>
     </div>
 </div>
+</div>
 <div class="panel-footer">
-    &copy 2014 low & salzmann GbR
+    &copy 2014 löw & salzmann GbR
 </div>
 </body>
 </html>
