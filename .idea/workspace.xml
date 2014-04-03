@@ -293,7 +293,11 @@
       <created>1396519973948</created>
       <updated>1396519973948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test change&#10;">
+      <created>1396519993846</created>
+      <updated>1396519993846</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -336,7 +340,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Test change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test change" />
+    <MESSAGE value="Test change&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test change&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
