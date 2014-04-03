@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -356,7 +355,11 @@
       <created>1396540822044</created>
       <updated>1396540822044</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Kontaktform in jQuery hinzugefügt (Update)&#10;">
+      <created>1396541572430</created>
+      <updated>1396541572430</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -403,7 +406,8 @@
     <MESSAGE value="Test change 2&#10;" />
     <MESSAGE value="Kontaktform-Dummy hinzugefügt" />
     <MESSAGE value="Kontaktform in jQuery hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform in jQuery hinzugefügt" />
+    <MESSAGE value="Kontaktform in jQuery hinzugefügt (Update)&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform in jQuery hinzugefügt (Update)&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
