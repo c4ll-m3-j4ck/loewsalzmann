@@ -17,7 +17,7 @@ if($_POST)
     //check $_POST vars are set, exit if any missing
     if(!isset($_POST["userName"]) || !isset($_POST["userEmail"]) || !isset($_POST["userPhone"]) || !isset($_POST["userMessage"]))
     {
-        $output = json_encode(array('type'=>'error', 'text' => 'Input fields are empty!'));
+        $output = json_encode(array('type'=>'error', 'text' => 'Die Felder sind leer!'));
         die($output);
     }
 
@@ -40,8 +40,13 @@ if($_POST)
     }
     if(!is_numeric($user_Phone)) //check entered data is numbers
     {
-        $output = json_encode(array('type'=>'error', 'text' => 'Nur Ziffern im Feld "Telefonnummer" erlaubt!'));
-        die($output);
+        if(strlen($user_Phone)<6) //check entered data is not empty
+        {
+            break 2;
+        }else{
+            $output = json_encode(array('type'=>'error', 'text' => 'Nur Ziffern im Feld "Telefonnummer" erlaubt!'));
+            die($output);
+        }
     }
     if(strlen($user_Message)<5) //check emtpy message
     {
@@ -49,7 +54,7 @@ if($_POST)
         die($output);
     }
 
-    $to_Email       = "info@innovative-design-solutions.de"; //Replace with recipient email address
+    $to_Email       = "e.c.salzmann@gmail.com"; //Replace with recipient email address
     $subject        = 'Anfrage von '.$user_Name .' auf innovative-design-solutions.de'; //Subject line for emails
 
     //proceed with PHP email.

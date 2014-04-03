@@ -17,19 +17,15 @@ jQuery(document).ready(function(jQuery) {
         //we simply change border color to red if empty field using .css()
         var proceed = true;
         if(user_name==""){
-            jQuery(".name").addClass( "has-error" );
+            jQuery("#name").addClass( "has-error" );
             proceed = false;
         }
         if(user_email==""){
-            jQuery(".email").addClass( "has-error" );
-            proceed = false;
-        }
-        if(user_phone=="") {
-            jQuery(".phone").addClass( "has-error" );
+            jQuery("#email").addClass( "has-error" );
             proceed = false;
         }
         if(user_message=="") {
-            jQuery(".message").addClass( "has-error" );
+            jQuery("#message").addClass( "has-error" );
             proceed = false;
         }
 
@@ -61,8 +57,8 @@ jQuery(document).ready(function(jQuery) {
     });
 
     //reset previously set border colors and hide all message on .keyup()
-    jQuery("#contact_form input, #contact_form textarea").keyup(function() {
-        jQuery("#contact_form div").removeClass( "has-error");
+    jQuery("#contact input, #contact textarea").keyup(function() {
+        jQuery("#contact div").removeClass( "has-error");
         jQuery("#result").slideUp();
     });
 
