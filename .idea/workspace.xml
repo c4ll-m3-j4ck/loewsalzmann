@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Skinning/less/skin_custom.less" afterPath="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" afterPath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -312,7 +308,11 @@
       <created>1396521280571</created>
       <updated>1396521280571</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test change 2&#10;">
+      <created>1396533689137</created>
+      <updated>1396533689137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
