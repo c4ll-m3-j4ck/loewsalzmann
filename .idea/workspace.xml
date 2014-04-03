@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Resources/Private/Templates/mail.php" afterPath="$PROJECT_DIR$/Resources/Public/php/mail.php" />
+    <list default="true" readonly="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="Bug removed (php/mail.php)">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/js/Application.js" afterPath="$PROJECT_DIR$/Resources/Public/js/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/php/mail.php" afterPath="$PROJECT_DIR$/Resources/Public/php/mail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -47,7 +48,16 @@
       <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1110">
+            <state line="35" column="58" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="58" selection-start="2183" selection-end="2183" vertical-scroll-proportion="0.5827703" vertical-offset="465" max-vertical-offset="1200">
               <folding />
             </state>
           </provider>
@@ -62,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.5251397" vertical-offset="1338" max-vertical-offset="1920">
+            <state line="112" column="0" selection-start="3940" selection-end="3940" vertical-scroll-proportion="-4.329114" vertical-offset="1338" max-vertical-offset="1920">
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -101,8 +111,9 @@
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
         <option value="$PROJECT_DIR$/Resources/Private/Scripts/mail.php" />
         <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
-        <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
         <option value="$PROJECT_DIR$/Resources/Private/Templates/mail.php" />
+        <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
+        <option value="$PROJECT_DIR$/Resources/Public/php/mail.php" />
       </list>
     </option>
   </component>
@@ -382,12 +393,16 @@
       <created>1396543043711</created>
       <updated>1396543043711</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Kontaktform finished &amp; mail.php moved">
+      <created>1396543972784</created>
+      <updated>1396543972784</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -402,7 +417,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24821429" sideWeight="0.6704731" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24821429" sideWeight="0.6704731" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -430,7 +445,9 @@
     <MESSAGE value="Kontaktform-Dummy hinzugefügt" />
     <MESSAGE value="Kontaktform in jQuery hinzugefügt" />
     <MESSAGE value="Kontaktform in jQuery hinzugefügt (Update)&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kontaktform in jQuery hinzugefügt (Update)&#10;" />
+    <MESSAGE value="Kontaktform finished &amp; mail.php moved" />
+    <MESSAGE value="Bug removed (php/mail.php)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug removed (php/mail.php)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -569,26 +586,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="3940" selection-end="3940" vertical-scroll-proportion="-4.329114" vertical-offset="1338" max-vertical-offset="1920">
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1471" selection-end="1471" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1110">
+        <state line="35" column="58" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="83" selection-start="2596" selection-end="2596" vertical-scroll-proportion="1.7597766" vertical-offset="0" max-vertical-offset="1200">
+        <state line="54" column="58" selection-start="2183" selection-end="2183" vertical-scroll-proportion="0.5827703" vertical-offset="465" max-vertical-offset="1200">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="53" selection-start="3729" selection-end="3729" vertical-scroll-proportion="0.5251397" vertical-offset="1338" max-vertical-offset="1920">
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

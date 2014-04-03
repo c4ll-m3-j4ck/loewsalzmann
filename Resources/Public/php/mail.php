@@ -52,7 +52,7 @@ if($_POST)
         die($output);
     }
 
-    $to_Email       = "e.c.salzmann@gmail.com"; //Replace with recipient email address
+    $to_Email       = "info@innovative-design-solutions.de"; //Replace with recipient email address
     $subject        = 'Anfrage von '.$user_Name .' auf innovative-design-solutions.de'; //Subject line for emails
 
     //proceed with PHP email.

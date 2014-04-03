@@ -36,7 +36,7 @@ jQuery(document).ready(function(jQuery) {
             post_data = {'userName':user_name, 'userEmail':user_email, 'userPhone':user_phone, 'userMessage':user_message};
 
             //Ajax post data to server
-            jQuery.post('mail.php', post_data, function(response){
+            jQuery.post('php/mail.php', post_data, function(response){
 
                 //load json data from server and output message
                 if(response.type == 'error')
