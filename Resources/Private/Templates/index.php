@@ -33,6 +33,9 @@
         <li>
             <a href="#referenzen">Referenzen</a>
         </li>
+        <li>
+            <a href="#kontakt">Kontakt</a>
+        </li>
     </ul>
 </div>
 
@@ -66,26 +69,50 @@
 <div class="jumbotron white" id="wir">
     <div class="container">
         <div class="col-sm-offset-1">
-            <h2>das machen wir so den ganzen tag</h2>
+            <h2>wer wir so den ganzen tag über sind</h2>
         </div>
     </div>
 </div>
 <div class="jumbotron" id="referenzen">
     <div class="container">
         <div class="col-sm-offset-1">
-            <h2>das machen wir so den ganzen tag</h2>
+            <h2>was wir so den ganzen tag über machen</h2>
         </div>
     </div>
 </div>
+
+<div class="jumbotron white last" id="kontakt">
+    <div class="container">
+        <div class="col-sm-10 col-sm-offset-1">
+            <h2>wie sie uns erreichen</h2>
+
+            <p>Kontaktieren sie uns einfach über das untenstehende Formular oder per Telefon:</p>
+            <p style="text-align: center;">
+                +49 177 1484638
+            </p>
+        </div>
+        <div class="col-sm-8 col-sm-offset-2">
+            <form role="form" action="mail.php" method="POST">
+                <div class="form-group">
+                    <label for="InputName">Ihr Name:</label>
+                    <input type="text" class="form-control" id="InputName" placeholder="Geben Sie Ihren Namen ein">
+                </div>
+                <div class="form-group">
+                    <label for="InputEmail">Ihre Email-Adresse:</label>
+                    <input type="text" class="form-control" id="InputEmail" placeholder="Geben Sie Ihre Email-Adresse ein">
+                </div>
+                <div class="form-group">
+                    <label for="InputMessage">Ihre Nachricht an uns:</label>
+                    <textarea class="form-control" rows="5"></textarea>
+                </div>
+
+                <button type="button" class="btn btn-primary">Abschicken</button>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="panel-footer">
+    &copy 2014 low & salzmann GbR
+</div>
 </body>
 </html>
-
-
-<?php
-/**
- * Created by PhpStorm.
- * User: Michel
- * Date: 31.03.14
- * Time: 21:13
- */
-

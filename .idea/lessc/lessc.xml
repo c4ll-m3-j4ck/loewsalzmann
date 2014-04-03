@@ -17,7 +17,7 @@
               <option name="id" value="1" />
               <option name="includePattern" value="skin_main.less" />
               <option name="lessDirPath" value="$PROJECT_DIR$/Skinning/less" />
-              <option name="name" value="loewsalzmann2" />
+              <option name="name" value="loewsalzmann" />
             </LessProfile>
           </value>
         </entry>
