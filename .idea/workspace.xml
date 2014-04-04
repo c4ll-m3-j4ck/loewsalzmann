@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="Bug removed (php/mail.php)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/js/Application.js" afterPath="$PROJECT_DIR$/Resources/Public/js/Application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/scroll-down.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/php/mail.php" afterPath="$PROJECT_DIR$/Resources/Public/php/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Skinning/less/skin_custom.less" afterPath="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" afterPath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -32,84 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="skin_main.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Skinning/less/skin_main.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.9183673" vertical-offset="0" max-vertical-offset="150">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skin_custom.less" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="0" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.8535156" vertical-offset="808" max-vertical-offset="1335">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skin_main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/css/skin_main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="87675">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="60" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewport-units-buggyfill.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="3030">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mail.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1215">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="-0.0" vertical-offset="135" max-vertical-offset="885">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="58" selection-start="4474" selection-end="4474" vertical-scroll-proportion="-15.833333" vertical-offset="1480" max-vertical-offset="2040">
-              <folding>
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/js/bootstrap.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="133" column="44" selection-start="5093" selection-end="5093" vertical-scroll-proportion="0.64705884" vertical-offset="1795" max-vertical-offset="2220">
               <folding />
             </state>
           </provider>
@@ -141,16 +62,17 @@
         <option value="$PROJECT_DIR$/Resources/Public/php/mail.php" />
         <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
         <option value="$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
     <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="width" value="1238" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -178,13 +100,22 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="loewsalzmann_1.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann_1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loewsalzmann" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -266,6 +197,10 @@
               <option name="myItemId" value="Public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -313,6 +248,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,39 +265,6 @@
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="9581f81b-0184-48ba-a2ff-6e1bdf265e6c">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/html/loewsalzmann" local="$PROJECT_DIR$/Resources/Private/Templates" web="/" />
-            <mapping deploy="/html/loewsalzmann" local="$PROJECT_DIR$/Resources/Public" web="/" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="aa4ec50c-e388-4aac-8434-7e264f4b2a57">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="c9412082-fbe5-45fb-94aa-048d613923a0">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="e457fd60-588d-4103-8d3d-1e57507b2b93">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -382,10 +285,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="fbe3cc7c-bf6c-4a37-bc5e-5de991f99a4d" server_name="iDS">
@@ -471,10 +370,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="732" extended-state="0" />
+    <frame x="42" y="22" width="1238" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32722145" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,7 +384,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25283632" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25201938" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -546,6 +445,63 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Skinning/less/skin_main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.0" vertical-offset="808" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/css/skin_main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="87675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="60" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="58" selection-start="4474" selection-end="4474" vertical-scroll-proportion="0.0" vertical-offset="1480" max-vertical-offset="2040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="20" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="341" max-vertical-offset="1020">
@@ -570,24 +526,13 @@
     <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="43" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1035">
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/img/face2.png">
@@ -600,47 +545,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
+    <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1215">
+        <state line="39" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="0.6632653" vertical-offset="0" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Skinning/less/skin_main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-0.9183673" vertical-offset="0" max-vertical-offset="150">
+        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.05102041" vertical-offset="0" max-vertical-offset="882">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3030">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="60" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="58" selection-start="4474" selection-end="4474" vertical-scroll-proportion="-15.833333" vertical-offset="1480" max-vertical-offset="2040">
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,9 +566,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/viewport-units-buggyfill.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.8535156" vertical-offset="808" max-vertical-offset="1335">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="204" selection-end="204" vertical-scroll-proportion="0.14884233" vertical-offset="0" max-vertical-offset="907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/js/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="60" selection-start="103" selection-end="103" vertical-scroll-proportion="0.06880734" vertical-offset="0" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="44" selection-start="5093" selection-end="5093" vertical-scroll-proportion="0.64705884" vertical-offset="1795" max-vertical-offset="2220">
           <folding />
         </state>
       </provider>

@@ -26,7 +26,7 @@
 <div class="floating-nav nav col-sm-1">
     <ul class="nav">
         <li>
-            <a href="#">Top</a>
+            <a href="#top">Top</a>
         </li>
         <li>
             <a href="#wir">Über Uns</a>
@@ -40,7 +40,7 @@
     </ul>
 </div>
 
-<div class="jumbotron">
+<div class="jumbotron" id="top">
     <div class="container">
         <div class="row">
             <div class="col-sm-8 col-sm-offset-1">
@@ -48,7 +48,6 @@
                     <h1>löw & salzmann GbR</h1>
                     <p>marktplatz 14</br>
                         64283 darmstadt</p>
-                    <p>+49 (0) 174 2630690</p>
                     <p>info@innovative-design-solutions.de</p>
                 </div>
             </div>
@@ -62,9 +61,15 @@
                     </div>
                     <div class="face-wrapper">
                         <img class="img img-responsive img-circle" src="img/face2.png">
+                        <!--<div class="face-addition">
+                            <h2>jan-michael löw</h2>
+                        </div>-->
                     </div>
 
                 </div>
+            </div>
+            <div class="col-sm-12">
+                <a href="#wir"><img class="img center-block" src="img/scroll-down.png"></a>
             </div>
         </div>
     </div>
@@ -72,7 +77,9 @@
 <div class="jumbotron white" id="wir">
     <div class="container">
         <div class="col-sm-offset-1">
-            <h2>wer wir so den ganzen tag über sind</h2>
+            <h2>individuell, aufgeschlossen und kreativ</h2>
+            <p>Die loew&salzmann GbR ist Anfang 2013 aus der Idee heraus entstanden, die durch Studium und außer-universitärem Engagement erworbenen Fähigkeiten im Bereich Print- und Webdesign sowie Social Media zu bündeln und einen professionellen Rundum-Service anzubieten.<br></p>
+
         </div>
     </div>
 </div>
@@ -124,7 +131,7 @@
 
 <div class="navbar navbar-inverse navbar-static-top footer">
     <div class="container">
-        &copy 2014 löw & salzmann GbR
+        <p>&copy 2014 löw & salzmann GbR</p>
     </div>
 </div>
 </body>
