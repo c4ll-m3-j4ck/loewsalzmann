@@ -51,34 +51,34 @@
                     <p>info@innovative-design-solutions.de</p>
                 </div>
             </div>
-            <div class="col-sm-3">
-                <div class="intro-right">
-                    <div class="face-wrapper">
-                        <img class="img img-responsive img-circle" src="img/face1.png">
-                        <!--<div class="face-addition">
-                            <h2>edmund salzmann</h2>
-                        </div>-->
-                    </div>
-                    <div class="face-wrapper">
-                        <img class="img img-responsive img-circle" src="img/face2.png">
-                        <!--<div class="face-addition">
-                            <h2>jan-michael löw</h2>
-                        </div>-->
-                    </div>
 
-                </div>
-            </div>
-            <div class="col-sm-12">
-                <a href="#wir"><img class="img center-block" src="img/scroll-down.png"></a>
-            </div>
+            <a href="#wir" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
         </div>
     </div>
 </div>
 <div class="jumbotron white" id="wir">
     <div class="container">
         <div class="col-sm-offset-1">
-            <h2>individuell, aufgeschlossen und kreativ</h2>
-            <p>Die loew&salzmann GbR ist Anfang 2013 aus der Idee heraus entstanden, die durch Studium und außer-universitärem Engagement erworbenen Fähigkeiten im Bereich Print- und Webdesign sowie Social Media zu bündeln und einen professionellen Rundum-Service anzubieten.<br></p>
+            <div class="col-sm-5">
+                <div class="face-wrapper">
+                    <img class="img img-responsive img-circle center-block" src="img/face1.png">
+                    <div class="face-addition">
+                        <h2>edmund salzmann</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="face-wrapper">
+                    <img class="img img-responsive img-circle center-block" src="img/face2.png">
+                    <!--<div class="face-addition">
+                        <h2>jan-michael löw</h2>
+                    </div>-->
+                </div>
+            </div>
+            <div class="col-sm-11">
+                <h2>individuell, aufgeschlossen und kreativ</h2>
+                <p>Die löw & salzmann GbR ist Anfang 2013 aus der Idee heraus entstanden, die durch Studium und außer-universitärem Engagement erworbenen Fähigkeiten im Bereich Print- und Webdesign sowie Social Media zu bündeln und einen professionellen Rundum-Service anzubieten.<br></p>
+            </div>
 
         </div>
     </div>
@@ -122,7 +122,7 @@
                     <textarea class="form-control" rows="5" name="userMessage" id="userMessage"></textarea>
                 </div>
 
-                <button type="submit" class="btn btn-primary submit" id="submit">Abschicken</button>
+                <button type="submit" class="btn submit" id="submit">Abschicken</button>
                 </fieldset>
                 </form>
             </div>
