@@ -5,6 +5,7 @@
     <script src="js/jquery-1.11.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/Application.js"></script>
+    <script src="js/viewport-units-buggyfill.js"></script>
     <script src="http://use.edgefonts.net/dosis:n2.js"></script>
 </head>
 <body>
@@ -22,7 +23,7 @@
         </ul>
     </div>
 </div>-->
-<div class="floating-nav nav">
+<div class="floating-nav nav col-sm-1">
     <ul class="nav">
         <li>
             <a href="#">Top</a>
@@ -41,27 +42,29 @@
 
 <div class="jumbotron">
     <div class="container">
-        <div class="col-sm-8 col-sm-offset-1">
-            <div class="intro-left">
-                <h1>löw & salzmann GbR</h1>
-                <p>marktplatz 14</br>
-                    64283 darmstadt</p>
-                <p>+49 (0) 174 2630690</p>
-                <p>info@innovative-design-solutions.de</p>
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-1">
+                <div class="intro-left">
+                    <h1>löw & salzmann GbR</h1>
+                    <p>marktplatz 14</br>
+                        64283 darmstadt</p>
+                    <p>+49 (0) 174 2630690</p>
+                    <p>info@innovative-design-solutions.de</p>
+                </div>
             </div>
-        </div>
-        <div class="col-sm-3">
-            <div class="intro-right">
-                <div class="face-wrapper">
-                    <img class="img-circle img-face" src="img/face1.png">
-                    <div class="face-addition">
-                        <h2>edmund salzmann</h2>
+            <div class="col-sm-3">
+                <div class="intro-right">
+                    <div class="face-wrapper">
+                        <img class="img img-responsive img-circle" src="img/face1.png">
+                        <!--<div class="face-addition">
+                            <h2>edmund salzmann</h2>
+                        </div>-->
                     </div>
-                </div>
-                <div class="face-wrapper">
-                    <img class="img-circle img-face" src="img/face2.png">
-                </div>
+                    <div class="face-wrapper">
+                        <img class="img img-responsive img-circle" src="img/face2.png">
+                    </div>
 
+                </div>
             </div>
         </div>
     </div>
@@ -93,31 +96,36 @@
         </div>
         <div class="col-sm-8 col-sm-offset-2">
             <div id="result"></div>
-            <div id="contact">
+                <form id="contact" method="post" target="php/mail.php">
+                <fieldset>
                 <div class="form-group" id="name">
                     <label for="InputName">Ihr Name:</label>
-                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Geben Sie Ihren Namen ein">
+                    <input type="text" class="form-control" name="userName" id="userName" placeholder="Geben Sie Ihren Namen ein">
                 </div>
                 <div class="form-group" id="email">
                     <label for="InputEmail">Ihre Email-Adresse:</label>
-                    <input type="text" class="form-control" name="InputEmail" id="InputEmail" placeholder="Geben Sie Ihre Email-Adresse ein">
+                    <input type="text" class="form-control" name="userEmail" id="userEmail" placeholder="Geben Sie Ihre Email-Adresse ein">
                 </div>
                 <div class="form-group" id="phone">
                     <label for="InputPhone">Ihre Telefonnummer: (optional)</label>
-                    <input type="text" class="form-control" name="InputPhone" id="InputPhone" placeholder="Geben Sie Ihre Telefonnummer ein">
+                    <input type="text" class="form-control" name="userPhone" id="userPhone" placeholder="Geben Sie Ihre Telefonnummer ein">
                 </div>
                 <div class="form-group" id="message">
                     <label for="InputMessage">Ihre Nachricht an uns:</label>
-                    <textarea class="form-control" rows="5" name="InputMessage" id="InputMessage"></textarea>
+                    <textarea class="form-control" rows="5" name="userMessage" id="userMessage"></textarea>
                 </div>
 
                 <button type="submit" class="btn btn-primary submit" id="submit">Abschicken</button>
+                </fieldset>
+                </form>
             </div>
     </div>
 </div>
-</div>
-<div class="panel-footer">
-    &copy 2014 löw & salzmann GbR
+
+<div class="navbar navbar-inverse navbar-static-top footer">
+    <div class="container">
+        &copy 2014 löw & salzmann GbR
+    </div>
 </div>
 </body>
 </html>

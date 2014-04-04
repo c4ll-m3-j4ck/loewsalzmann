@@ -11,6 +11,7 @@ if($_POST)
                 'text' => 'Request must come from Ajax'
             ));
 
+        echo($output);
         die($output);
     }
 

@@ -6,7 +6,6 @@
         <entry key="1">
           <value>
             <LessProfile>
-              <option name="compressOutput" value="true" />
               <option name="cssDirectories">
                 <list>
                   <CssDirectory>

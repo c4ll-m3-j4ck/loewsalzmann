@@ -1,17 +1,22 @@
 jQuery(document).ready(function(jQuery) {
 
+    // Initialise Buggyfill for iOS messed up vh/vw behavior
+    window.viewportUnitsBuggyfill.init();
+
     jQuery(".intro-right .face-wrapper").click( function (event) {
         event.preventDefault();
         jQuery(this).toggleClass("active");
         jQuery(".intro-left").toggleClass("right-active");
     })
 
-    jQuery(".submit").click(function() {
+    jQuery("#contact").on("submit", function(event) {
+        event.preventDefault();
+        //console.log(jQuery('#contact').serialize());
         //get input field values
-        var user_name       = jQuery('input[name=InputName]').val();
-        var user_email      = jQuery('input[name=InputEmail]').val();
-        var user_phone      = jQuery('input[name=InputPhone]').val();
-        var user_message    = jQuery('textarea[name=InputMessage]').val();
+        var user_name       = jQuery('input[name=userName]').val();
+        var user_email      = jQuery('input[name=userEmail]').val();
+        var user_phone      = jQuery('input[name=userPhone]').val();
+        var user_message    = jQuery('textarea[name=userMessage]').val();
 
         //simple validation at client's end
         //we simply change border color to red if empty field using .css()
@@ -33,9 +38,12 @@ jQuery(document).ready(function(jQuery) {
         if(proceed)
         {
             //data to be sent to server
-            post_data = {'userName':user_name, 'userEmail':user_email, 'userPhone':user_phone, 'userMessage':user_message};
+            post_data = jQuery("#contact").serialize();
+            //alert(post_data);
+            //post_data = {'userName':user_name, 'userEmail':user_email, 'userPhone':user_phone, 'userMessage':user_message};
 
             //Ajax post data to server
+
             jQuery.post('php/mail.php', post_data, function(response){
 
                 //load json data from server and output message
@@ -50,7 +58,7 @@ jQuery(document).ready(function(jQuery) {
                     jQuery("#contact").hide("slow");
                 }
 
-                jQuery("#result").hide().html(output).slideDown();
+                jQuery("#result").html(output).slideDown();
             }, 'json');
 
         }
