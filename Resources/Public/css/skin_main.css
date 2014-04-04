@@ -5832,6 +5832,9 @@ button.close {
   margin-top: 20px;
   -webkit-transform: translateZ(0);
 }
+.floating-nav ul li.active a {
+  background: red;
+}
 .footer {
   text-align: right;
   color: white;
