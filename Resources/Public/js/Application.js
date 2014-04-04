@@ -70,6 +70,49 @@ jQuery(document).ready(function(jQuery) {
         jQuery("#result").slideUp();
     });
 
+    // Add Scroll Height indicator to fixed navigation
+    jQuery(document).scroll( function () {
+
+        var menu = jQuery(".floating-nav ul li a[href]");
+        //console.log(jQuery(window).scrollTop());
+
+        menu.each( function () {
+            if (jQuery(this).data("targetHeight") <= jQuery(window).scrollTop()) {
+                //console.log("matched" + jQuery(this).data("targetHeight"));
+                jQuery(this).parent("li").siblings().removeClass("active");
+                jQuery(this).parent("li").addClass("active");
+            } else{
+                //jQuery(this).parent("li").removeClass("active").siblings().removeClass("active");
+            }
+
+        })
+    });
+
+    jQuery(".floating-nav ul li a[href]").each( function () {
+
+        var href = jQuery(this).attr('href');
+
+        if (href.length > 1) {
+
+            target = jQuery(jQuery(this).attr("href")).offset();
+            jQuery(this).data("targetHeight", target.top);
+        }
+    });
+
+    // scrolltop
+    jQuery('a[href^=#]').on('click', function(e){
+
+        var href = jQuery(this).attr('href');
+
+        if (href.length > 1) {
+            jQuery('html, body').animate({scrollTop:jQuery(href).offset().top
+            },"slow");
+            e.preventDefault();
+        }
+
+
+    });
+
 });
 
 
