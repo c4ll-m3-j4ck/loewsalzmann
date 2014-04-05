@@ -5950,6 +5950,10 @@ button.close {
       padding-top: 20px;
     }*/
 }
+.jumbotron .face-wrapper h2,
+.jumbotron .face-wrapper h3 {
+  text-align: center;
+}
 .jumbotron .face-wrapper .face-addition {
   margin-left: 100%;
   display: inline-block;

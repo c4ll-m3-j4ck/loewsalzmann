@@ -58,27 +58,27 @@
 </div>
 <div class="jumbotron white" id="wir">
     <div class="container">
-        <div class="col-sm-offset-1">
-            <div class="col-sm-5">
+        <div class="col-sm-offset-2">
+            <div class="col-md-5">
                 <div class="face-wrapper">
                     <img class="img img-responsive img-circle center-block" src="img/face1.png">
-                    <div class="face-addition">
-                        <h2>edmund salzmann</h2>
-                    </div>
+                    <h2>edmund salzmann</h2>
+                    <h3>"Design war eigentlich nur ein Hobby!"</h3>
+                    <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
                 </div>
             </div>
-            <div class="col-sm-5">
+            <div class="col-md-5">
                 <div class="face-wrapper">
                     <img class="img img-responsive img-circle center-block" src="img/face2.png">
-                    <!--<div class="face-addition">
-                        <h2>jan-michael löw</h2>
-                    </div>-->
+                    <h2>jan-michael löw</h2>
+                    <h3>"Design war eigentlich nur ein Hobby!"</h3>
+                    <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
                 </div>
             </div>
-            <div class="col-sm-11">
+            <!--<div class="col-sm-11">
                 <h2>individuell, aufgeschlossen und kreativ</h2>
                 <p>Die löw & salzmann GbR ist Anfang 2013 aus der Idee heraus entstanden, die durch Studium und außer-universitärem Engagement erworbenen Fähigkeiten im Bereich Print- und Webdesign sowie Social Media zu bündeln und einen professionellen Rundum-Service anzubieten.<br></p>
-            </div>
+            </div>-->
 
         </div>
     </div>
