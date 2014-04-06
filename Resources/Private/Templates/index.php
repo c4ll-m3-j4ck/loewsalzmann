@@ -23,22 +23,32 @@
         </ul>
     </div>
 </div>-->
-<div class="floating-nav nav col-sm-1">
-    <ul class="nav">
-        <li>
-            <a href="#top">Top</a>
-        </li>
-        <li>
-            <a href="#wir">Über Uns</a>
-        </li>
-        <li>
-            <a href="#referenzen">Referenzen</a>
-        </li>
-        <li>
-            <a href="#kontakt">Kontakt</a>
-        </li>
-    </ul>
-</div>
+<nav class="navbar-fixed-top floating-nav nav">
+ <!--   <div class="navbar-header">
+        <button type="button" class="navbar-toggle navbar-inverse" data-toggle="collapse" data-target="#collapse-nav">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>-->
+    <div class="collapse navbar-collapse floating-nav col-sm-1" id="collapse-nav">
+        <ul class="nav navbar-nav">
+            <li>
+                <a href="#top">Top</a>
+            </li>
+            <li>
+                <a href="#wir">Über Uns</a>
+            </li>
+            <li>
+                <a href="#referenzen">Referenzen</a>
+            </li>
+            <li>
+                <a href="#kontakt">Kontakt</a>
+            </li>
+        </ul>
+    </div>
+</nav>
 
 <div class="jumbotron" id="top">
     <div class="container">

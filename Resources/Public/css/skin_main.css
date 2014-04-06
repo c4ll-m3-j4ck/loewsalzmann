@@ -5972,16 +5972,40 @@ button.close {
 .jumbotron.white {
   background: white;
 }
-.floating-nav {
+nav .navbar {
+  border-radius: 0px;
+  border: 0px;
+  margin-bottom: 0px;
+}
+nav .navbar-nav > li {
+  float: none;
+}
+nav .navbar-nav > li a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+nav .navbar-collapse {
+  max-height: 340px;
+  overflow-x: visible;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-top: none;
+  box-shadow: none;
+  -webkit-overflow-scrolling: touch;
+}
+nav .floating-nav {
   position: fixed;
   margin-top: 20px;
   -webkit-transform: translateZ(0);
 }
-.floating-nav a {
+nav .floating-nav li {
+  width: 100px;
+}
+nav .floating-nav a {
   color: #999999;
   text-decoration: none;
 }
-.floating-nav ul li.active a {
+nav .floating-nav ul li.active a {
   background: #333333;
 }
 .scroll-down {
