@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <title>loew & salzmann GbR</title>
     <link rel="stylesheet" href="css/skin_main.css">
     <script src="js/jquery-1.11.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -93,10 +99,56 @@
         </div>
     </div>
 </div>
-<div class="jumbotron" id="referenzen">
+<div class="jumbotron no-padding" id="referenzen">
     <div class="container">
         <div class="col-sm-offset-1">
-            <h2>was wir so den ganzen tag über machen</h2>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image</h2></div>
+                <img src="img/ref1.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 2</h2></div>
+                <img src="img/ref2.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 3</h2></div>
+                <img src="img/ref3.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 4</h2></div>
+                <img src="img/ref4.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 5</h2></div>
+                <img src="img/ref5.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 6</h2></div>
+                <img src="img/ref6.jpg" class="img-responsive">
+            </div> <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image</h2></div>
+                <img src="img/ref1.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 2</h2></div>
+                <img src="img/ref2.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 3</h2></div>
+                <img src="img/ref3.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 4</h2></div>
+                <img src="img/ref4.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 5</h2></div>
+                <img src="img/ref5.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-4 no-padding">
+                <div class="overlay"><h2>test image 6</h2></div>
+                <img src="img/ref6.jpg" class="img-responsive">
+            </div>
         </div>
     </div>
 </div>
