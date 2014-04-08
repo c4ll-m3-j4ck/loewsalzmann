@@ -5912,6 +5912,9 @@ button.close {
     bottom: 40px;
   }
 }
+* {
+  font-family: dosis, "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
 .jumbotron {
   min-height: 100vh;
   height: auto;
