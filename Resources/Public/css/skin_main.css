@@ -6032,6 +6032,9 @@ nav .floating-nav ul li.active a {
 .overlay:hover {
   opacity: 1;
 }
+.overlay.active-overlay {
+  opacity: 0;
+}
 .scroll-down {
   position: absolute;
   z-index: 100;

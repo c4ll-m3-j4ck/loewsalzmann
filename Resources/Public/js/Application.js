@@ -9,6 +9,13 @@ jQuery(document).ready(function(jQuery) {
         jQuery(".intro-left").toggleClass("right-active");
     })
 
+    jQuery(".overlay").click( function (event) {
+        event.preventDefault();
+        jQuery(this).parent().closest('div').toggleClass("active-ref col-sm-4 col-sm-8");
+        jQuery(this).toggleClass("active-overlay");
+
+    })
+
     jQuery("#contact").on("submit", function(event) {
         event.preventDefault();
         //console.log(jQuery('#contact').serialize());

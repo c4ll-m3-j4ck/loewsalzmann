@@ -104,50 +104,51 @@
 <div class="jumbotron no-padding" id="referenzen">
     <div class="container">
         <div class="col-sm-offset-1">
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref active-ref">
                 <div class="overlay"><h2>test image</h2></div>
                 <img src="img/ref1.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 2</h2></div>
                 <img src="img/ref2.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 3</h2></div>
                 <img src="img/ref3.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 4</h2></div>
                 <img src="img/ref4.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 5</h2></div>
                 <img src="img/ref5.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 6</h2></div>
                 <img src="img/ref6.jpg" class="img-responsive">
-            </div> <div class="col-sm-4 no-padding">
+            </div>
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image</h2></div>
                 <img src="img/ref1.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 2</h2></div>
                 <img src="img/ref2.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 3</h2></div>
                 <img src="img/ref3.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 4</h2></div>
                 <img src="img/ref4.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 5</h2></div>
                 <img src="img/ref5.jpg" class="img-responsive">
             </div>
-            <div class="col-sm-4 no-padding">
+            <div class="col-sm-4 no-padding ref">
                 <div class="overlay"><h2>test image 6</h2></div>
                 <img src="img/ref6.jpg" class="img-responsive">
             </div>
