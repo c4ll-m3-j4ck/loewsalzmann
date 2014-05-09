@@ -78,7 +78,7 @@
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
                 <div class="face-wrapper">
-                    <img class="img img-responsive img-circle center-block" src="img/face1.png">
+                    <img class="img img-responsive img-circle center-block" src="img/eddi_1.png">
                     <h2>edmund salzmann</h2>
                     <h3>"Design war eigentlich nur ein Hobby!"</h3>
                     <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
@@ -86,7 +86,7 @@
             </div>
             <div class="col-sm-5">
                 <div class="face-wrapper">
-                    <img class="img img-responsive img-circle center-block" src="img/face2.png">
+                    <img class="img img-responsive img-circle center-block" src="img/michel_1.png">
                     <h2>jan-michael löw</h2>
                     <h3>"Design war eigentlich nur ein Hobby!"</h3>
                     <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
