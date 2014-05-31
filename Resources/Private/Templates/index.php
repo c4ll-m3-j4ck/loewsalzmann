@@ -38,8 +38,8 @@
             <span class="icon-bar"></span>
         </button>
     </div>-->
-    <div class="collapse navbar-collapse floating-nav col-sm-1" id="collapse-nav">
-        <ul class="nav navbar-nav">
+    <div class="floating-nav col-sm-1 schlaufe">
+        <ul class="nav navbar-nav ">
             <li>
                 <a href="#top">Top</a>
             </li>
@@ -80,16 +80,18 @@
                 <div class="face-wrapper">
                     <img class="img img-responsive img-circle center-block" src="img/eddi_1.png">
                     <h2>edmund salzmann</h2>
-                    <h3>"Design war eigentlich nur ein Hobby!"</h3>
-                    <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
+                    <h3>form follows function</h3>
+                    <p>Angefangen hat alles mit dem ersten Flyer für das Schulkonzert zu Teenagerzeiten - inzwischen habe ich ganze Magazine gesetzt, Logos designed und Webseiten gestaltet. Für mich im Fokus steht die für Sie individuell beste Lösung - je schlanker, desto besser.</p>
+                    <h4>student des wirtschaftsingenieurwesens, TU Darmstadt</h4>
                 </div>
             </div>
             <div class="col-sm-5">
                 <div class="face-wrapper">
                     <img class="img img-responsive img-circle center-block" src="img/michel_1.png">
                     <h2>jan-michael löw</h2>
-                    <h3>"Design war eigentlich nur ein Hobby!"</h3>
+                    <h3>beautiful concepts work better</h3>
                     <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
+                    <h4>student des industriedesigns, hochschule_darmstadt</h4>
                 </div>
             </div>
             <!--<div class="col-sm-11">
@@ -103,56 +105,7 @@
 
 <div class="jumbotron no-padding" id="referenzen">
     <div class="container">
-        <div class="col-sm-offset-1">
-            <div class="col-sm-4 no-padding ref active-ref">
-                <div class="overlay"><h2>test image</h2></div>
-                <img src="img/ref1.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 2</h2></div>
-                <img src="img/ref2.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 3</h2></div>
-                <img src="img/ref3.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 4</h2></div>
-                <img src="img/ref4.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 5</h2></div>
-                <img src="img/ref5.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 6</h2></div>
-                <img src="img/ref6.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image</h2></div>
-                <img src="img/ref1.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 2</h2></div>
-                <img src="img/ref2.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 3</h2></div>
-                <img src="img/ref3.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 4</h2></div>
-                <img src="img/ref4.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 5</h2></div>
-                <img src="img/ref5.jpg" class="img-responsive">
-            </div>
-            <div class="col-sm-4 no-padding ref">
-                <div class="overlay"><h2>test image 6</h2></div>
-                <img src="img/ref6.jpg" class="img-responsive">
-            </div>
-        </div>
+
     </div>
 </div>
 

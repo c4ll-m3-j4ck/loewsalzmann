@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,300italic|Poiret+One);
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -5913,7 +5914,14 @@ button.close {
   }
 }
 * {
-  font-family: dosis, "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font-family: 'Lato', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Poiret One', cursive;
 }
 .jumbotron {
   min-height: 100vh;
@@ -6001,8 +6009,10 @@ nav .navbar-collapse {
 }
 nav .floating-nav {
   position: fixed;
-  margin-top: 20px;
   -webkit-transform: translateZ(0);
+  background-image: url(../img/schlaufe.png);
+  height: 393px;
+  width: 133px;
 }
 nav .floating-nav li {
   width: 100px;
