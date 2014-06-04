@@ -38,13 +38,16 @@
             <span class="icon-bar"></span>
         </button>
     </div>-->
-    <div class="floating-nav col-sm-1 schlaufe">
+    <div class="floating-nav col-sm-1 schlaufe hidden-sm hidden-xs">
         <ul class="nav navbar-nav ">
             <li>
                 <a href="#top">Top</a>
             </li>
             <li>
                 <a href="#wir">Über Uns</a>
+            </li>
+            <li>
+                <a href="#angebot">Angebot</a>
             </li>
             <li>
                 <a href="#referenzen">Referenzen</a>
@@ -81,7 +84,7 @@
                     <img class="img img-responsive img-circle center-block" src="img/eddi_1.png">
                     <h2>edmund salzmann</h2>
                     <h3>form follows function</h3>
-                    <p>Angefangen hat alles mit dem ersten Flyer für das Schulkonzert zu Teenagerzeiten - inzwischen habe ich ganze Magazine gesetzt, Logos designed und Webseiten gestaltet. Für mich im Fokus steht die für Sie individuell beste Lösung - je schlanker, desto besser.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     <h4>student des wirtschaftsingenieurwesens, TU Darmstadt</h4>
                 </div>
             </div>
@@ -90,7 +93,7 @@
                     <img class="img img-responsive img-circle center-block" src="img/michel_1.png">
                     <h2>jan-michael löw</h2>
                     <h3>beautiful concepts work better</h3>
-                    <p>Mit Erfahrung im Bereich Print- und Webdesign sowie Photographie seit der frühen Teenagerzeit und einem technischen Grundverständnis aus dem Studium des Wirtschaftsingenieurwesens bin ich ihr perfekter Ansprechpartner für ihr Projekt.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     <h4>student des industriedesigns, hochschule_darmstadt</h4>
                 </div>
             </div>
@@ -103,12 +106,201 @@
     </div>
 </div>
 
-<div class="jumbotron no-padding" id="referenzen">
+<div class="jumbotron" id="angebot">
     <div class="container">
-
+        <div class="row">
+            <div class="col-xs-11 col-sm-offset-1">
+                <h2>was wir ihnen anbieten</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1">
+                <img src="img/responsive-design.png" class="img-responsive center-block">
+                <h3>web.</h3>
+                <ul class="icon-list check-right">
+                    <li>modernstes webdesign zur besten darstellung ihrer inhalte</li>
+                    <li>kompatibel für alle displaygrößen durch responsive design</li>
+                    <li>technisch perfekt</li>
+                </ul>
+            </div>
+            <div class="col-sm-5">
+                <img src="img/flyer.png" class="img-responsive center-block">
+                <h3>print.</h3>
+                <ul class="icon-list check-right">
+                    <li>hoch-qualitative printprodukte für jeden anlass</li>
+                    <li>flyer, poster, visitenkarten, menüs, roll-ups, ...</li>
+                    <li>perfekt auf sie abgestimmt</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1">
+                <img src="img/corporate-identity.png" class="img-responsive center-block">
+                <h3>corporate design.</h3>
+                <ul class="icon-list check-right">
+                    <li>gestaltung ihres kompletten firmenauftritts</li>
+                    <li>von logo bis visitenkarte</li>
+                    <li>feinfühliges design für ihren zweck</li>
+                </ul>
+            </div>
+            <div class="col-sm-5">
+                <img src="img/branding.png" class="img-responsive center-block">
+                <h3>branding.</h3>
+                <ul class="icon-list check-right">
+                    <li>betreuung und beratung ihrer social media auftritte</li>
+                    <li>erstellen von marketing-konzepten</li>
+                    <li>auf ihre zielgruppen abgestimmt</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+           <div class="push100px"></div>
+        </div>
     </div>
 </div>
+<div class="jumbotron white" id="referenzen">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-11 col-sm-offset-1">
+                <h2>was wir bisher erstellt haben</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref1.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal1">
+                <p> </p>
 
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel">Referenz 1</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref1.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref2.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal2">
+                <p> </p>
+
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel2">Referenz 2</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref2.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref3.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal3">
+                <p> </p>
+
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel3">Referenz 3</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref3.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref4.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal4">
+                <p> </p>
+
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel4" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel4">Referenz 4</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref4.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref5.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal5">
+                <p> </p>
+
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel5" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel5">Referenz 5</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref5.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <!-- Image trigger modal -->
+                <img src="img/ref6.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal6">
+                <p> </p>
+                <p> </p>
+
+                <!-- Modal -->
+                <div class="modal fade" id="RefModal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel6" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title" id="myModalLabel6">Referenz 6</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="img/ref6.jpg" class="img-responsive">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?php include_once("contact.php") ?>
 
 <div class="navbar navbar-inverse navbar-static-top footer">

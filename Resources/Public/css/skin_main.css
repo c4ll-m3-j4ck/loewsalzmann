@@ -5961,6 +5961,9 @@ h5 {
       padding-top: 20px;
     }*/
 }
+.jumbotron .face-wrapper p {
+  text-align: justify;
+}
 .jumbotron .face-wrapper h2,
 .jumbotron .face-wrapper h3 {
   text-align: center;
@@ -5982,6 +5985,35 @@ h5 {
 }
 .jumbotron.white {
   background: white;
+}
+.jumbotron.grey {
+  background: #999999;
+}
+.jumbotron#angebot h3,
+.jumbotron#referenzen h3 {
+  text-align: center;
+}
+.jumbotron#angebot p,
+.jumbotron#referenzen p {
+  text-align: justify;
+}
+.jumbotron#referenzen .img-responsive {
+  margin: 0 auto;
+}
+.icon-list li {
+  padding: 0 0 5px 20px;
+  display: block;
+  position: relative;
+}
+.icon-list li:before {
+  font-family: 'Glyphicons Halflings';
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  font-size: 80%;
+}
+.check-right li:before {
+  content: '\e013';
 }
 .no-padding {
   padding: 0 !important;
@@ -6015,7 +6047,7 @@ nav .floating-nav {
   width: 133px;
 }
 nav .floating-nav li {
-  width: 100px;
+  width: 104px;
 }
 nav .floating-nav a {
   color: #999999;
@@ -6068,6 +6100,9 @@ nav .floating-nav ul li.active a {
   -o-animation-delay: 1s;
   animation-delay: 1s;
   cursor: pointer;
+}
+.push100px {
+  height: 100px;
 }
 .footer {
   text-align: right;

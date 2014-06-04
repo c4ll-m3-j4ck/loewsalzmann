@@ -1,4 +1,4 @@
-<div class="jumbotron white last" id="kontakt">
+<div class="jumbotron last grey" id="kontakt">
     <div class="container">
         <div class="col-sm-10 col-sm-offset-1">
             <h2>wie sie uns erreichen</h2>

@@ -40,6 +40,10 @@ h1, h2, h3, h4, h5 {
     margin-left: 0;
     overflow: hidden;
 
+    p {
+      text-align: justify;
+    }
+
     h2, h3 {
       text-align: center;
     }
@@ -78,6 +82,10 @@ h1, h2, h3, h4, h5 {
   &.white {
     background: white;
   }
+
+  &.grey {
+    background: @gray-light;
+  }
   /*&.last {
     height: 100vh - 40px;
   }*/
@@ -87,6 +95,36 @@ h1, h2, h3, h4, h5 {
     height: 200px;
   }*/
 
+  &#angebot, &#referenzen {
+    h3 {
+      text-align: center;
+    }
+    p {
+      text-align: justify;
+    }
+
+  }
+
+  &#referenzen .img-responsive {
+    margin: 0 auto;
+  }
+
+}
+
+.icon-list li {
+  padding: 0 0 5px 20px;
+  display: block;
+  position: relative;
+}
+.icon-list li:before {
+  font-family: 'Glyphicons Halflings';
+  position: absolute;
+  left: 0px;
+  top:3px;
+  font-size:80%
+}
+.check-right li:before {
+  content: '\e013';
 }
 
 .no-padding {
@@ -133,7 +171,7 @@ nav {
     height: 393px;
     width: 133px;
     li {
-      width: 100px;
+      width: 104px;
 
     }
     a {
@@ -192,6 +230,9 @@ nav {
   cursor: pointer;
 }
 
+.push100px {
+  height: 100px;
+}
 .footer {
   text-align: right;
   //background-color: @gray-darker;
