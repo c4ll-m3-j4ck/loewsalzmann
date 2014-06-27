@@ -1,11 +1,12 @@
 <div class="jumbotron last grey" id="kontakt">
     <div class="container">
+      <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
-            <h2>wie sie uns erreichen</h2>
+            <h2>kontakt</h2>
 
             <p>Kontaktieren sie uns einfach über das untenstehende Formular </p>
         </div>
-        <div class="col-sm-8 col-sm-offset-2">
+        <div class="col-sm-10 col-sm-offset-1">
             <div id="result"></div>
             <form id="contact" method="post" target="php/mail.php">
                 <fieldset>
@@ -30,5 +31,6 @@
                 </fieldset>
             </form>
         </div>
+      </div>
     </div>
 </div>
