@@ -5929,7 +5929,7 @@ h5 {
   margin-bottom: 0;
   padding-top: 0;
   background: #222222;
-  color: #555555;
+  color: #999999;
   /*  .intro-right {
     padding-top: 20px;
     margin-left: 0;
@@ -5984,10 +5984,12 @@ h5 {
   margin-top: 0;
 }
 .jumbotron.white {
-  background: white;
+  background: #ffffff;
+  color: #555555;
 }
 .jumbotron.grey {
-  background: #999999;
+  background: #eeeeee;
+  color: #555555;
 }
 .jumbotron#angebot h3,
 .jumbotron#referenzen h3 {

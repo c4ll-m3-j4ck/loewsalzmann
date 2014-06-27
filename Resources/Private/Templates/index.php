@@ -65,13 +65,13 @@
             <div class="col-sm-8 col-sm-offset-1">
                 <div class="intro-left">
                     <h1>löw & salzmann GbR</h1>
+                    <p>web. print. service.</p><br><br>
                     <p>marktplatz 14</br>
                         64283 darmstadt</p>
-                    <p>info@innovative-design-solutions.de</p>
                 </div>
             </div>
 
-            <a href="#wir" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
+            <!--<a href="#wir" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>-->
         </div>
     </div>
 </div>
@@ -110,7 +110,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-11 col-sm-offset-1">
-                <h2>was wir ihnen anbieten</h2>
+                <h2>unser angebot</h2>
             </div>
         </div>
         <div class="row">
@@ -120,7 +120,7 @@
                 <ul class="icon-list check-right">
                     <li>modernstes webdesign zur besten darstellung ihrer inhalte</li>
                     <li>kompatibel für alle displaygrößen durch responsive design</li>
-                    <li>technisch perfekt</li>
+                    <li>durchdachte konzepte durch enge zusammenarbeit mit dem kunden</li>
                 </ul>
             </div>
             <div class="col-sm-5">
@@ -161,12 +161,12 @@
 <div class="jumbotron white" id="referenzen">
     <div class="container">
         <div class="row">
-            <div class="col-xs-11 col-sm-offset-1">
-                <h2>was wir bisher erstellt haben</h2>
+            <div class="col-xs-10 col-sm-offset-1">
+                <h2>unsere referenzen</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref1.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal1">
                 <p> </p>
@@ -187,7 +187,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref2.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal2">
                 <p> </p>
@@ -209,7 +209,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref3.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal3">
                 <p> </p>
@@ -231,7 +231,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref4.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal4">
                 <p> </p>
@@ -253,7 +253,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref5.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal5">
                 <p> </p>
@@ -275,7 +275,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <!-- Image trigger modal -->
                 <img src="img/ref6.jpg" class="img-responsive" data-toggle="modal" data-target="#RefModal6">
                 <p> </p>
@@ -305,7 +305,7 @@
 
 <div class="navbar navbar-inverse navbar-static-top footer">
     <div class="container">
-        <p>&copy 2014 löw & salzmann GbR</p>
+        <p>&copy 2014 löw & salzmann GbR | <a href="impressum.php" target="_blank">Impressum</a></p>
     </div>
 </div>
 </body>

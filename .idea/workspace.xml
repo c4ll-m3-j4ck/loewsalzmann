@@ -1,85 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="v 2.0">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/AxureRP-Pro-Setup.dmg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Behance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Blogger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Cheat Sheet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Deviantart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Dribbble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Foodspotting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Forrst.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Foursquare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Google+.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Grooveshark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Last_fm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/LinkedIn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Markdown_1.0.1.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Myspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Path.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Pinterest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Quora.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Rdio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Responsive 5.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PSD/Social Glyphs - Black &amp; White.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PSD/Social Glyphs - Styled Alpha Transparent.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Vector/Social Glyphs AI.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Vector/Social Glyphs EPS.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Shapes/Social Glyphs.csh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Types/Socialglyphs-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Soundcloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Spotify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Style_Tile_Template.psd.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Style_Tile_Template.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Svpply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/TheFancy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Tumblr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/Zerply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/branding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/corporate identity.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/corporate-identity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/devices.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/eddi_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/eddi_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/flyer.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/flyer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/michel_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/michel_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/preview.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/responsive-design.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/responsive.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/img/schlaufe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/type/socialglyphs-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Types/socialglyphs-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/type/socialglyphs-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Types/socialglyphs-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/PNG/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Guide.rtf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Markdown_1.0.1/License.text" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Markdown_1.0.1/Markdown Readme.text" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/Markdown_1.0.1/Markdown.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/responsive-design.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/type/socialglyphs-regular.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Types/socialglyphs-regular.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/type/socialglyphs-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Types/socialglyphs-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/multi-format-social-media-glyph-set/Fonts/Example/stylesheet.css" />
+    <list default="true" id="4fbc9a8f-b2df-4b12-acdf-f0f1fe83cf3b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/contact.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Templates/index.php" afterPath="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Private/Design stuff/responsive-design.svg" afterPath="$PROJECT_DIR$/Resources/Private/Design stuff/responsive-design.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Skinning/less/skin_custom.less" afterPath="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" afterPath="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Skinning/less/bootstrap/variables.less" afterPath="$PROJECT_DIR$/Skinning/less/bootstrap/variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loewsalzmann_1.0.iws" />
@@ -103,10 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="280" column="24" selection-start="15341" selection-end="15341" vertical-scroll-proportion="0.0" vertical-offset="3564" max-vertical-offset="4755">
+            <state line="73" column="72" selection-start="2428" selection-end="2428" vertical-scroll-proportion="0.73109245" vertical-offset="660" max-vertical-offset="4755">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skin_custom.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="3" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="3825">
               <folding />
             </state>
           </provider>
@@ -139,28 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skin_custom.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="32" selection-start="2479" selection-end="2479" vertical-scroll-proportion="0.0" vertical-offset="1091" max-vertical-offset="3765">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+            <state line="11" column="29" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="576" column="10" selection-start="18637" selection-end="18642" vertical-scroll-proportion="14.304636" vertical-offset="0" max-vertical-offset="12525">
+            <state line="19" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="12540">
               <folding />
             </state>
           </provider>
@@ -193,9 +121,10 @@
         <option value="$PROJECT_DIR$/Resources/Public/css/skin_main.css" />
         <option value="$PROJECT_DIR$/Resources/Private/Templates/index_navtry.php" />
         <option value="$PROJECT_DIR$/Resources/Public/js/Application.js" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/contact.php" />
+        <option value="$PROJECT_DIR$/Skinning/less/bootstrap/variables.less" />
         <option value="$PROJECT_DIR$/Skinning/less/skin_custom.less" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/contact.php" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/index.php" />
       </list>
     </option>
   </component>
@@ -203,7 +132,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="1028" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -231,7 +160,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -413,9 +341,14 @@
               <option name="myItemId" value="Private" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Design stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -570,27 +503,31 @@
       <created>1401543335766</created>
       <updated>1401543335766</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="v 2.0">
+      <created>1401888331420</created>
+      <updated>1401888331420</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1680" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25164837" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25164837" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704731" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23199023" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24236874" sideWeight="0.67320263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3242424" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23516484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -629,7 +566,8 @@
     <MESSAGE value="images added (michel / eddi)" />
     <MESSAGE value="images added (michel / eddi)&#10;" />
     <MESSAGE value="nav changed with schlaufe" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav changed with schlaufe" />
+    <MESSAGE value="v 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 2.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -892,9 +830,14 @@
         <state line="15" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="-1.857671" vertical-offset="1230" max-vertical-offset="9330" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
+    <entry file="file://$PROJECT_DIR$/Resources/Public/css/skin_main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="111" selection-start="1363" selection-end="1363" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1215">
+        <state line="2033" column="1" selection-start="37558" selection-end="37562" vertical-scroll-proportion="5.3140626" vertical-offset="27094" max-vertical-offset="91635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/glyphicons.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="60" selection-start="2379" selection-end="2379" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="3585">
           <folding />
         </state>
       </provider>
@@ -906,42 +849,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/glyphicons.less">
+    <entry file="file://$PROJECT_DIR$/Resources/Public/php/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="60" selection-start="2379" selection-end="2379" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="3585">
+        <state line="33" column="111" selection-start="1363" selection-end="1363" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1215">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/css/skin_main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2033" column="1" selection-start="37558" selection-end="37562" vertical-scroll-proportion="5.3140626" vertical-offset="27094" max-vertical-offset="91635" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="11" column="29" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Skinning/less/skin_custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="32" selection-start="2479" selection-end="2479" vertical-scroll-proportion="0.0" vertical-offset="1091" max-vertical-offset="3765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="280" column="24" selection-start="15341" selection-end="15341" vertical-scroll-proportion="0.0" vertical-offset="3564" max-vertical-offset="4755">
+        <state line="30" column="3" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="3825">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Skinning/less/bootstrap/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="576" column="10" selection-start="18637" selection-end="18642" vertical-scroll-proportion="14.304636" vertical-offset="0" max-vertical-offset="12525">
+        <state line="19" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="12540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="72" selection-start="2428" selection-end="2428" vertical-scroll-proportion="0.73109245" vertical-offset="660" max-vertical-offset="4755">
           <folding />
         </state>
       </provider>

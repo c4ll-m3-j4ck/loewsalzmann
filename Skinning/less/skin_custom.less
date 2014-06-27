@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 0;
   padding-top: 0;
   background: @gray-darker;
-  color: @gray;
+  color: @gray-light;
 
   .intro-left {
     padding-top: 50vh;
@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5 {
       opacity: 0.3;
     }
   }
+
 /*  .intro-right {
     padding-top: 20px;
     margin-left: 0;
@@ -80,11 +81,14 @@ h1, h2, h3, h4, h5 {
   }
 
   &.white {
-    background: white;
+    background: @white;
+    color: @gray;
   }
 
   &.grey {
-    background: @gray-light;
+    background: @gray-lighter;
+    color: @gray;
+
   }
   /*&.last {
     height: 100vh - 40px;
