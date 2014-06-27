@@ -36,13 +36,13 @@
             <div class="col-sm-8 col-sm-offset-1">
                 <div class="intro-left">
                     <h1>löw & salzmann GbR</h1>
-                    <p>marktplatz 14</br>
-                        64283 darmstadt</p>
-                    <p>info@innovative-design-solutions.de</p>
+                    <p>darmstadt - glasgow</br>
+                        </p>
+                    <p><a href="#kontakt" class="scroll-down">info@innovative-design-solutions.de</a></p>
                 </div>
             </div>
 
-            <a href="#wir" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
+            <a href="#kontakt" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
         </div>
     </div>
 </div>
