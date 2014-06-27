@@ -4,7 +4,7 @@
         <div class="col-sm-10 col-sm-offset-1">
             <h2>kontakt</h2>
 
-            <p>Kontaktieren sie uns einfach über das untenstehende Formular </p>
+            <p>Kontaktieren sie uns einfach über das untenstehende Formular:</p>
         </div>
         <div class="col-sm-10 col-sm-offset-1">
             <div id="result"></div>

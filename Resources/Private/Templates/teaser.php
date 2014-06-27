@@ -33,12 +33,18 @@
 <div class="jumbotron" id="top">
     <div class="container">
         <div class="row">
+            <div class="col-sm-2 col-sm-offset-9">
+                <div class="lang">
+                    <a href="teaser_en.php">English</a> | Deutsch
+                </div>
+            </div>
             <div class="col-sm-8 col-sm-offset-1">
                 <div class="intro-left">
+
                     <h1>löw & salzmann GbR</h1>
                     <p>darmstadt - glasgow</br>
                         </p>
-                    <p><a href="#kontakt" class="scroll-down">info@innovative-design-solutions.de</a></p>
+                    <p><a href="#kontakt">info@innovative-design-solutions.de</a></p>
                 </div>
             </div>
 
