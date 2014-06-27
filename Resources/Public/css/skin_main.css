@@ -6077,18 +6077,19 @@ nav .floating-nav ul li.active a {
 .overlay.active-overlay {
   opacity: 0;
 }
+/*
 .scroll-down {
-  position: absolute;
-  z-index: 100;
-  opacity: 1;
-  left: 50%;
-  bottom: 40px;
-  margin-left: -42px;
-  -webkit-transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
-  -ms-transition: all 0.35s ease-in-out;
-  -o-transition: all 0.35s ease-in-out;
-  transition: all 0.35s ease-in-out;
+  position:absolute;
+  z-index:100;
+  opacity:1;
+  left:50%;
+  bottom:40px;
+  margin-left:-42px;
+  -webkit-transition: all .35s ease-in-out;
+  -moz-transition: all .35s ease-in-out;
+  -ms-transition: all .35s ease-in-out;
+  -o-transition: all .35s ease-in-out;
+  transition: all .35s ease-in-out;
   -webkit-animation: arrows 5s infinite;
   -moz-animation: arrows 5s infinite;
   -ms-animation: arrows 5s infinite;
@@ -6100,6 +6101,14 @@ nav .floating-nav ul li.active a {
   -o-animation-delay: 1s;
   animation-delay: 1s;
   cursor: pointer;
+}*/
+.scroll-down {
+  position: absolute;
+  z-index: 100;
+  opacity: 1;
+  left: 50%;
+  bottom: 40px;
+  margin-left: -42px;
 }
 .push100px {
   height: 100px;

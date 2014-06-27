@@ -3,10 +3,7 @@
         <div class="col-sm-10 col-sm-offset-1">
             <h2>wie sie uns erreichen</h2>
 
-            <p>Kontaktieren sie uns einfach über das untenstehende Formular oder per Telefon:</p>
-            <p style="text-align: center;">
-                +49 177 1484638
-            </p>
+            <p>Kontaktieren sie uns einfach über das untenstehende Formular </p>
         </div>
         <div class="col-sm-8 col-sm-offset-2">
             <div id="result"></div>
