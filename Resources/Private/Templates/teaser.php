@@ -42,7 +42,7 @@
                 </div>
             </div>
 
-            <a href="#wir" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
+            <a href="#kontakt" class="scroll-down"><img src="img/scroll-down.png" class="arrows"></a>
         </div>
     </div>
 </div>
