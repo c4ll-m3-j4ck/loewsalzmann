@@ -1,3 +1,18 @@
+/*function formSubmission (dataArray) {
+
+    console.log("formSubmission");
+    jQuery.ajax( {
+        type: "POST",
+        url: "php/mail.php",
+        data : dataArray
+    }).done( function (result) {
+            alert(result);
+            jQuery("body").append(result);
+        });
+
+}*/
+
+
 jQuery(document).ready(function(jQuery) {
 
     // Initialise Buggyfill for iOS messed up vh/vw behavior
@@ -7,51 +22,37 @@ jQuery(document).ready(function(jQuery) {
         event.preventDefault();
         jQuery(this).toggleClass("active");
         jQuery(".intro-left").toggleClass("right-active");
-    })
+    });
 
     jQuery(".overlay").click( function (event) {
         event.preventDefault();
         jQuery(this).parent().closest('div').toggleClass("active-ref col-sm-4 col-sm-8");
         jQuery(this).toggleClass("active-overlay");
 
-    })
+    });
 
     jQuery("#contact").on("submit", function(event) {
-        event.preventDefault();
-        //console.log(jQuery('#contact').serialize());
-        //get input field values
-        var user_name       = jQuery('input[name=userName]').val();
-        var user_email      = jQuery('input[name=userEmail]').val();
-        var user_phone      = jQuery('input[name=userPhone]').val();
-        var user_message    = jQuery('textarea[name=userMessage]').val();
 
-        //simple validation at client's end
-        //we simply change border color to red if empty field using .css()
-        var proceed = true;
-        if(user_name==""){
-            jQuery("#name").addClass( "has-error" );
-            proceed = false;
-        }
-        if(user_email==""){
-            jQuery("#email").addClass( "has-error" );
-            proceed = false;
-        }
-        if(user_message=="") {
-            jQuery("#message").addClass( "has-error" );
-            proceed = false;
-        }
+        event.preventDefault();
+        dataArray = jQuery(this).serializeArray();
+
+        var proceed = false;
+
+        jQuery.each(dataArray, function () {
+            if (this != "") {
+                proceed = true;
+            }
+            else {
+                proceed = false;
+            }
+        });
 
         //everything looks good! proceed...
         if(proceed)
         {
-            //data to be sent to server
-            post_data = jQuery("#contact").serialize();
-            //alert(post_data);
-            //post_data = {'userName':user_name, 'userEmail':user_email, 'userPhone':user_phone, 'userMessage':user_message};
-
             //Ajax post data to server
 
-            jQuery.post('php/mail.php', post_data, function(response){
+            jQuery.post('php/mail.php', dataArray, function(response){
 
                 //load json data from server and output message
                 if(response.type == 'error')
@@ -70,7 +71,6 @@ jQuery(document).ready(function(jQuery) {
 
         }
     });
-
     //reset previously set border colors and hide all message on .keyup()
     jQuery("#contact input, #contact textarea").keyup(function() {
         jQuery("#contact div").removeClass( "has-error");
